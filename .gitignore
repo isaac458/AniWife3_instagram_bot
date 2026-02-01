@@ -1,0 +1,5 @@
+/myenv
+.env
+greeted_threads.txt
+session.json
+replied_messages.txt
